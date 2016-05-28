@@ -2,11 +2,12 @@
 
 Here I uploaded codes mainly about generative model.  
 
-## Importance weighted auto encoder
+## Importance weighted auto encoder.ipynb
 
 Importance weighted autoenocder in Tensorflow
 
-This code is strongly inspired by this page.(https://jmetzen.github.io/2015-11-27/vae.html)
+
+This code was strongly inspired by this page.(https://jmetzen.github.io/2015-11-27/vae.html)
 
 In that page,there is a good "VAE" code written by Jan Hendrik Metzen.
 
