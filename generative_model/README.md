@@ -2,9 +2,9 @@
 
 Here I uploaded codes mainly about generative model.  
 
-## Importance weighted auto encoder.ipynb
+## Importance Weighted Autoencoders.ipynb
 
-Importance weighted autoenocder in Tensorflow
+Importance Wweighted Autoenocders in Tensorflow
 
 
 This code was strongly inspired by this page.(https://jmetzen.github.io/2015-11-27/vae.html)
